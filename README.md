@@ -1,5 +1,5 @@
 # mctoughcore
-**Minecraft Version 1.15.2**
+**Minecraft Version 1.16.3**
 
 This Minecraft datapack adds pseudo-hardcore gameplay to survival Minecraft. This datapack give the player 5 lives - when they are all lost, the player is permanently moved to **spectator mode** and unable to resume their survival gameplay (similar to hardcore mode).
 
