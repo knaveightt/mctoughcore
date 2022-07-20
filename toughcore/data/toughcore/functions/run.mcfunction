@@ -4,8 +4,8 @@
 function toughcore:deathlevel/apples
 function toughcore:deathlevel/manage
 
-# manage aspects of the player's armor slots (and max hearts)
-function toughcore:armorslot/manage
+# manage aspects of the player's max hearts
+function toughcore:attribute/manage
 
 # what happens when a player dies too many times
 function toughcore:finaldeath/manage

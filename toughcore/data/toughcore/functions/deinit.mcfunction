@@ -3,6 +3,7 @@
 # needed for this datapack to function.
 
 scoreboard objectives remove tcDeathLevel
+scoreboard objectives remove tcDeathEvent
 scoreboard objectives remove tcTotalHearts
 scoreboard objectives remove tcUsedGapple
 scoreboard objectives remove tcUsedEGapple
