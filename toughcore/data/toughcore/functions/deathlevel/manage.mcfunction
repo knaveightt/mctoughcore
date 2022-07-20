@@ -5,3 +5,6 @@ execute as @a[scores={tcDeathLevel=1}] at @s run scoreboard players set @s tcTot
 execute as @a[scores={tcDeathLevel=2}] at @s run scoreboard players set @s tcTotalHearts 6
 execute as @a[scores={tcDeathLevel=3}] at @s run scoreboard players set @s tcTotalHearts 4
 execute as @a[scores={tcDeathLevel=4}] at @s run scoreboard players set @s tcTotalHearts 2
+
+# make sure you cannot have a negative death level
+execute as @a[scores={tcDeathLevel=-1}] at @s run scoreboard players set @s tcDeathLevel 0
